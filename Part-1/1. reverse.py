@@ -1,4 +1,4 @@
-def solve(head):
+def reverse(head):
     ## // 3 ptr setup
     prev = None
     cur = head

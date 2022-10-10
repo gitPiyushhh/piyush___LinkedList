@@ -1,4 +1,4 @@
-def solve(head):
+def middle(head):
     # // Speed ptr setup
     s = head
     f = head
